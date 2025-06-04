@@ -37,7 +37,7 @@ This application prioritizes child safety and educational development. No data i
    1. Gaussian Naive Bayes: 0.0659 
    2. Support Vector Classifier: 0.0759 
    3. ResNet50 (PyTorch): 0.4785
-4. YOLOfinetuned: 
+4. YOLOfinetuned: mAP500.421     mAP50-95 0.292
    
 5. From the above, it is readily apparent that a deep neural network provides the most apt mean for image classification.
 
