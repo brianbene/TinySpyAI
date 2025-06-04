@@ -31,7 +31,7 @@ This application prioritizes child safety and educational development. No data i
 
 ### 4. Model Evaluation
 1. The accuracy improved in the order laid out above. NB, since it assumes feature independence, was increadibly inaccurate-it ignores the complexities of the world. SVC was a marked improvement, but image classifiction proves to have too many non linear relationhios; the amount of time to compute and optimal hyperparameters for a usable SVC is not worth it's time.
-2. Confusion Matrix, Accuracy
+2. Confusion Matrix, Accuracy, Precision, mAP/IoU for YOLO
 2. Accuracies:
    Model Comparison:
    1. Gaussian Naive Bayes: 0.0659 
