@@ -54,7 +54,7 @@ torchvision>=0.15.0
 ![Tiny Spy AI Game Interface](assets/app_preview.png)
 ### To run:
 1. Place all files in the same directory and run the script
-2. 
+   
 
 ### Lessons Learned:
 1. THe importance of directory structuring. It took sometime to structure the images in my project directory-I'm usually messy when it comes to organization.
